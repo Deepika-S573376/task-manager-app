@@ -3,3 +3,4 @@ Kalyan Chakravarthy Jogula: Added TextViews for Task, Label, Date, and Time with
 Kalyan Chakravarthy Jogula: Added Description TextView to display task descriptions. \
 Kalyan Chakravarthy Jogula: Added Delete and Update buttons with styling. \
 Kalyan Chakravarthy Jogula: Finalized layout constraints for Task management screen.
+Deepika : added task activity
